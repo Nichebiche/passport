@@ -6,7 +6,7 @@
   "dependencies": {
     "@1password/op-js": "^0.1.13",
     "@pulumi/aws": "^5.0.0",
-    "@pulumi/cloudflare": "^5.26.0",
+    "@pulumi/cloudflare": "^5.49.1",
     "@pulumi/github": "^6.1.0",
     "@pulumi/pulumi": "^3.0.0",
     "@pulumi/std": "^1.6.2",
