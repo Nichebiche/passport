@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@chakra-ui/react": "^2.8.1",
-    "@coinbase/wallet-sdk": "^4.2.0",
+    "@coinbase/wallet-sdk": "^4.2.3",
     "@datadog/browser-logs": "^4.11.2",
     "@datadog/browser-rum": "^4.11.2",
     "@didtools/cacao": "^3.0.1",
